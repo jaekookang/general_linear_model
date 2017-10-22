@@ -1,0 +1,12 @@
+The data files have the same name as the data sets discussed in 
+Applied Linear Regression, 4th edition.  
+
+The first column of each file gives row names, or row numbers
+if no names are given.
+
+The first row of each file gives variable names, separated by commas.
+The name for the row names is blank.
+
+Data values are separated by commas.
+
+Missing values are indicated by NA.
